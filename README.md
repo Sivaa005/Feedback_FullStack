@@ -3,14 +3,22 @@ A Fullstack Web Application built using HTML, CSS, JavaScript (Frontend) and PHP
 
 🚀 Features
 📝 User Feedback Form (Name, Email, Message, Rating, etc.)
+
 ✅ Validation using JavaScript (client-side)
+
 📥 Store Feedback in MySQL database
+
 👨‍💼 Admin Panel to view and manage all feedback
+
 🎨 Responsive UI using HTML & CSS
+
 🔐 Secure Database Connection with PHP & SQL
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL (via XAMPP / phpMyAdmin)
+
 Server: Apache (XAMPP)
